@@ -38,7 +38,7 @@ body {
   justify-content: center;
   align-items: center;
   color: #fff;
-  background-image: url('../img/hero.jpeg');
+  background-image: url('./img/hero.jpeg');
   background-attachment: fixed;
   width: 1295px;
   height: 1000px;
@@ -85,17 +85,17 @@ body {
 
 .shops-bg1 {
   width: 600px;
-  background-image: url('../img/shops1.jpg');
+  background-image: url('./img/shops1.jpg');
 }
 
 .shops-bg2 {
   width: 600px;
-  background-image: url('../img/shops2.jpg');
+  background-image: url('./img/shops2.jpg');
 }
 
 .shops-bg3 {
   width: 600px;
-  background-image: url('../img/shops3.jpg');
+  background-image: url('./img/shops3.jpg');
 }
 
 .shops-item {
@@ -260,7 +260,7 @@ img:nth-child(4){animation-delay:0}
 
 .left-par {
   width: 50%;
-  background-image: url('../img/menu1.jpg');
+  background-image: url('./img/menu1.jpg');
 }
 
 .right-par {
@@ -272,7 +272,7 @@ img:nth-child(4){animation-delay:0}
 .top-img-menu {
   height: 100%;
   width: 100%;
-  background-image: url('../img/menu2.jpg');
+  background-image: url('./img/menu2.jpg');
 }
 
 .down-img-menu {
